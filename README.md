@@ -8,9 +8,9 @@ redes diferentes e roteamento estático utilizando roteadores Cisco.
 
 ## Topologia
 
-## 🖥️ Topologia
+## Topologia
 
-![Topologia da rede](topologia.png)
+<img width="1361" height="451" alt="topologia" src="https://github.com/user-attachments/assets/64104dd1-970c-4178-ad54-f8080191060c" />
 
 A topologia é composta por:
 
